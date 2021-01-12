@@ -1,0 +1,4 @@
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\CalculareMedie\obj\Debug\netstandard2.0\CalculareMedie.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\CalculareMedie\obj\Debug\netstandard2.0\CalculareMedie.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\CalculareMedie\obj\Debug\netstandard2.0\CalculareMedie.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\CalculareMedie\obj\Debug\netstandard2.0\CalculareMedie.csproj.CoreCompileInputs.cache

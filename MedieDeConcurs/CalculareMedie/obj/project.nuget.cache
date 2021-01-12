@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6bLeHsYMnpZaIbmoyILX7wwzFl/zT+8kW7jc2lktHfpjRkXkGN4r36ZulV47nCILimfoJaIiAr8DXXF9+J/vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dorin\\Desktop\\OOP\\MedieDeConcurs\\CalculareMedie\\CalculareMedie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dorin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dorin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

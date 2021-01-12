@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\bin\Debug\netcoreapp3.1\MedieDeConcurs.exe
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\bin\Debug\netcoreapp3.1\MedieDeConcurs.deps.json
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\bin\Debug\netcoreapp3.1\MedieDeConcurs.runtimeconfig.json
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\bin\Debug\netcoreapp3.1\MedieDeConcurs.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\bin\Debug\netcoreapp3.1\MedieDeConcurs.dll
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\bin\Debug\netcoreapp3.1\MedieDeConcurs.pdb
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.dll
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.pdb
+C:\Users\Dorin\Desktop\OOP\MedieDeConcurs\MedieDeConcurs\obj\Debug\netcoreapp3.1\MedieDeConcurs.genruntimeconfig.cache
