@@ -4,3 +4,4 @@ C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - 
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Exemplul6\obj\Debug\Exemplul6.csproj.CoreCompileInputs.cache
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Exemplul6\obj\Debug\Exemplul6.exe
 C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Exemplul6\obj\Debug\Exemplul6.pdb
+C:\Users\Dorin\Desktop\repos\materiale-ore\Materiale Ore\OOP\Lectia 2\Lectia2 - Exemple din prezentare\Exemplul6\obj\Debug\Exemplul6.csprojAssemblyReference.cache

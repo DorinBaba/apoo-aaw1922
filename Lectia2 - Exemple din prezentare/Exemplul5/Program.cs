@@ -9,24 +9,12 @@ namespace Exemplul5
     // Utilizarea destructorului
     class Cerc
     {
-        public double raza;
+        public int raza;
 
-        // Constructor
-        public Cerc()
-        {
-            Console.WriteLine("Obiectul a fost creat");
-        }
+        public int Raza { get; set; }
 
-        // Destructor
-        ~Cerc()
-        {
-            Console.WriteLine("Obiectul a fost distrus");
-        }
 
-        public double Diametru()
-        {
-            return raza * 2;
-        }
+
     }
 
     class Program
