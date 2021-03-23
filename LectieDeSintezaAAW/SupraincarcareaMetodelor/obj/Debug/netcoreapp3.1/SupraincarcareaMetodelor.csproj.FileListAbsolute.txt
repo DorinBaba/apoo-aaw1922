@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\bin\Debug\netcoreapp3.1\SupraincarcareaMetodelor.exe
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\bin\Debug\netcoreapp3.1\SupraincarcareaMetodelor.deps.json
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\bin\Debug\netcoreapp3.1\SupraincarcareaMetodelor.runtimeconfig.json
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\bin\Debug\netcoreapp3.1\SupraincarcareaMetodelor.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\bin\Debug\netcoreapp3.1\SupraincarcareaMetodelor.dll
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\bin\Debug\netcoreapp3.1\SupraincarcareaMetodelor.pdb
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.dll
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.pdb
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupraincarcareaMetodelor\obj\Debug\netcoreapp3.1\SupraincarcareaMetodelor.genruntimeconfig.cache

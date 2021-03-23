@@ -1,0 +1,12 @@
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\bin\Debug\netcoreapp3.1\SupradefinireaMetodelor.exe
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\bin\Debug\netcoreapp3.1\SupradefinireaMetodelor.deps.json
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\bin\Debug\netcoreapp3.1\SupradefinireaMetodelor.runtimeconfig.json
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\bin\Debug\netcoreapp3.1\SupradefinireaMetodelor.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\bin\Debug\netcoreapp3.1\SupradefinireaMetodelor.dll
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\bin\Debug\netcoreapp3.1\SupradefinireaMetodelor.pdb
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\obj\Debug\netcoreapp3.1\SupradefinireaMetodelor.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\obj\Debug\netcoreapp3.1\SupradefinireaMetodelor.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\obj\Debug\netcoreapp3.1\SupradefinireaMetodelor.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\obj\Debug\netcoreapp3.1\SupradefinireaMetodelor.dll
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\obj\Debug\netcoreapp3.1\SupradefinireaMetodelor.pdb
+C:\Users\Dorin\Desktop\LectieDeSintezaAAW\SupradefinireaMetodelor\obj\Debug\netcoreapp3.1\SupradefinireaMetodelor.genruntimeconfig.cache
