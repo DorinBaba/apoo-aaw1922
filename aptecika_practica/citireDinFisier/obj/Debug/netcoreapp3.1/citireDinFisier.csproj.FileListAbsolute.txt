@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\bin\Debug\netcoreapp3.1\citireDinFisier.exe
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\bin\Debug\netcoreapp3.1\citireDinFisier.deps.json
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\bin\Debug\netcoreapp3.1\citireDinFisier.runtimeconfig.json
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\bin\Debug\netcoreapp3.1\citireDinFisier.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\bin\Debug\netcoreapp3.1\citireDinFisier.dll
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\bin\Debug\netcoreapp3.1\citireDinFisier.pdb
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.dll
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.pdb
+C:\Users\Dorin\Desktop\aptecika_practica\citireDinFisier\obj\Debug\netcoreapp3.1\citireDinFisier.genruntimeconfig.cache

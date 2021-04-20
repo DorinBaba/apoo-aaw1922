@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\bin\Debug\netcoreapp3.1\ScriereFisierBina.exe
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\bin\Debug\netcoreapp3.1\ScriereFisierBina.deps.json
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\bin\Debug\netcoreapp3.1\ScriereFisierBina.runtimeconfig.json
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\bin\Debug\netcoreapp3.1\ScriereFisierBina.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\bin\Debug\netcoreapp3.1\ScriereFisierBina.dll
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\bin\Debug\netcoreapp3.1\ScriereFisierBina.pdb
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.dll
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.pdb
+C:\Users\Dorin\Desktop\aptecika_practica\ScriereFisierBina\obj\Debug\netcoreapp3.1\ScriereFisierBina.genruntimeconfig.cache

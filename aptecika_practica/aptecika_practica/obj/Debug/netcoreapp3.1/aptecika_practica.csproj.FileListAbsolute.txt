@@ -1,0 +1,13 @@
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\bin\Debug\netcoreapp3.1\aptecika_practica.exe
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\bin\Debug\netcoreapp3.1\aptecika_practica.deps.json
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\bin\Debug\netcoreapp3.1\aptecika_practica.runtimeconfig.json
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\bin\Debug\netcoreapp3.1\aptecika_practica.runtimeconfig.dev.json
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\bin\Debug\netcoreapp3.1\aptecika_practica.dll
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\bin\Debug\netcoreapp3.1\aptecika_practica.pdb
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.csprojAssemblyReference.cache
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.AssemblyInfoInputs.cache
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.AssemblyInfo.cs
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.dll
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.pdb
+C:\Users\Dorin\Desktop\aptecika_practica\aptecika_practica\obj\Debug\netcoreapp3.1\aptecika_practica.genruntimeconfig.cache

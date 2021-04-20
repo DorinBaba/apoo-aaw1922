@@ -1,0 +1,5 @@
+Carte1 20 Andrei
+Carte2 30 Vasile
+Carte1 20 Andrei
+Carte2 30 Vasile
+Carte1 20 Andrei

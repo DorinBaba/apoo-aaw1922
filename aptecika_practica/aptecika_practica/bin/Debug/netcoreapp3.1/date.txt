@@ -1,0 +1,10 @@
+Datele despre carte:
+Denumire: 1
+Autor: 1
+NumarulDePagini: 1
+
+Datele despre carte:
+Denumire: 2
+Autor: 2
+NumarulDePagini: 2
+
